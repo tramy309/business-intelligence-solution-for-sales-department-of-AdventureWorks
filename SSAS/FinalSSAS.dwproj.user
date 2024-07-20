@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>FinalDatawarehouse</Id>
+            <Name>FinalDatawarehouse</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALg96dY+T60qcLo/LV2o5QgAAAAAmAAAARgBpAG4AYQBsAEQAYQB0AGEAdwBhAHIAZQBoAG8AdQBzAGUAAAAQZgAAAAEAACAAAAB5FYZrEFX8w1ObvSNBeUYnu5s+gBNhGfCHRQ3x2tSu6AAAAAAOgAAAAAIAACAAAAAQOMGN9/H+GA3gVbe/lTVr038O++hCmVsT43hafw7U5xAAAADo1bKQaC5R9YgFP/VnOnh7QAAAAH4LOq6DcId/cVp2YAOlHUZgXVVsfmYZ5Tf0WPEifdxLwF6NHNpQPBujI45NOIuIiedTjA8XNB2EmKS08fr24k4=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>FinalDatawarehouse</Id>
+            <Name>FinalDatawarehouse</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALg96dY+T60qcLo/LV2o5QgAAAAAmAAAARgBpAG4AYQBsAEQAYQB0AGEAdwBhAHIAZQBoAG8AdQBzAGUAAAAQZgAAAAEAACAAAAACK2lwCAzeySXkbaiEp+up5/Af/3/8ZGqJNcz78BDtDAAAAAAOgAAAAAIAACAAAADWld3qtfiNHeX0Nb7E2KZia9Evy2VjlDSDAQ0iLLf9FyAAAACKxGKXSyjtteaY+j7B54ne7TH9a1m2LF/hNnCOM+9FtEAAAACiatX+pQsSA8/7ESpOku1ckYpdcaBFB1VQ1aDDvH7frJ4pCwfzGYIDUNHF7RuYrx8mXSRvHDesrys91u4BP53c</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>LAPTOP-ORIN0SCD\SQLSERVER</TargetServer>
+        <TargetDatabase>FinalSSAS</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
